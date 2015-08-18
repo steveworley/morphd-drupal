@@ -1,0 +1,6 @@
+name: morphd
+description: RESTful queryable interface into entities.
+type: module
+core: 8.x
+dependencies:
+  - rest
